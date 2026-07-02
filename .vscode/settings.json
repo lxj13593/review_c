@@ -22,5 +22,6 @@
         "**/vc140.pdb": true,
         "**/vc140.idb": true
     },
-     "editor.foldingStrategy": "auto"
+     "editor.foldingStrategy": "auto",
+     "editor.codeLens": false
 }
